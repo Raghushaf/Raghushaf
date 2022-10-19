@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science Domain.
 - 🌱 I’m currently learning ML,Data analysis and science of Data.
 - 💞️ I’m looking to collaborate on Data Analysis
-- 📫 How to reach me bhawansinghsolanki199@gmail.com
+- 📫 How to reach me solankibhawansingh@gmail.com
 
 <!---
 Raghushaf/Raghushaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
